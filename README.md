@@ -1,1 +1,1 @@
-# atividade.diagnostica
+# atividade-diagnostica
